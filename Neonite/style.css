@@ -1,1 +1,19 @@
+body {
+  background-color: #000080;
+}
 
+h1,
+h3,
+p,
+ul {
+  color: white;
+}
+
+.copyright {
+  font-size: 12px;
+}
+
+div {
+  margin: 0px 20px;
+  color: white;
+}
